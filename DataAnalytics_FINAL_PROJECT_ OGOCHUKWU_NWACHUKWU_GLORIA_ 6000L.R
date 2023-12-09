@@ -171,10 +171,6 @@ hist(Africa_Project_data$count3.20_, main = "Poverty_$3.20_headcount", col = "bl
 
 
 
-
-
-
-
 #Outliers
 # To identify outliers using IQR method
 Q1 <- quantile(Africa_Project_data$Corruption_index, 0.25)
@@ -341,8 +337,7 @@ plot(svm_model_cv)
 plot(rf_model_cv)
 
 
-#At the end of the cross-validation,  both SVM models and Random Forest have relatively low MAE values, but the Random Forest model has a slightly lower MAE. Therefore, based on the MAE metric alone, the Random Forest model performed slightly better in this comparison.
-
+#At the end of the cross-validation,  both SVM models and Random Forest have relatively low MAE values, but the SVM model performed better in this comparison. 
 
 
 #End_of_A6_6000L_NWACHUKWU_OGOCHUKWU_GLORIA
