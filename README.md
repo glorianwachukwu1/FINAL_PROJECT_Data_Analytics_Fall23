@@ -15,4 +15,5 @@ The hypothesis, "Do countries with high levels of corruption experience higher p
 
 
 In conclusion, this research offers valuable empirical insights into the interplay between corruption and poverty in African countries. By addressing corruption as a pivotal factor in perpetuating high poverty rates, the findings advocate for implementing targeted anti-corruption measures to foster sustainable growth and development.
+
 Keywords: Poverty, Corruption, Inflation, Headcount, Poverty gap, Africa, poor, Income, Growth, Index
